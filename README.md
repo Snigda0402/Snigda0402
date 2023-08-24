@@ -1,18 +1,6 @@
-<html>
-<head>
-<style>
-  .banner {
-    width: 100%;
-    height: auto;
-  }
-</style>
-</head>
-<body>
 
-<img class="banner" src="download.png" alt="banner designer">
 
-</body>
-</html>
+<img src="UChicago.webp" alt="banner designer">
 
 
 <h1 align="center">Hi 👋, I'm Snigda Gedela</h1>
