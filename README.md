@@ -1,6 +1,6 @@
 
 
-<img src="UChicago.webp" alt="banner designer">
+<img src="UChicago.png" alt="banner designer">
 
 
 <h1 align="center">Hi 👋, I'm Snigda Gedela</h1>
