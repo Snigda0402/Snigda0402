@@ -1,4 +1,4 @@
-[![MasterHead](https://1000logos.net/university-of-chicago-logo/)]
+<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/Snigda0402/Snigda0402/blob/main/download.png)" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Snigda Gedela</h1>
 <h3 align="center">Data Scientist | Grad student at University of Chicago</h3>
