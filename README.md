@@ -1,4 +1,19 @@
-<img src="download.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<html>
+<head>
+<style>
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+
+<img class="banner" src="download.png" alt="banner designer">
+
+</body>
+</html>
+
 
 <h1 align="center">Hi 👋, I'm Snigda Gedela</h1>
 <h3 align="center">Data Scientist | Grad student at University of Chicago</h3>
